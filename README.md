@@ -1,4 +1,4 @@
-<h1 align="center">Hey there it's NEXXO here 🐔</h1>
+<h1 align="center">Hey there it's neoKEX here 🐔</h1>
 <h3 align="center">HSC '26 Student | Bot Developer | Web Developer</h3>
 
 <p align="center">
