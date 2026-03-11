@@ -1,58 +1,70 @@
-<h1 align="center">Hey there it's neoKEX here 🐔</h1>
-<h3 align="center">HSC '26 Student | Bot Developer | Web Developer</h3>
+# Neoaz ゐ (NeoKEX)
+### Full-Stack Developer | AI & Web Solutions Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nexo-here&label=Profile%20views&color=0e75b6&style=flat" alt="nexo-here" />
-  <img src="https://img.shields.io/github/followers/nexo-here?label=Follow&style=social" alt="followers" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Dinajpur%2C%20Bangladesh-0052FF?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-HSC%2026%20%7C%20Holy%20Land%20College-0052FF?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-19-0052FF?style=flat-square" />
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🧑‍🎓 HSC 2026 Candidate
-- 🔭 Currently working on: **Bot Developing, Web Designing**
-- 🌱 Learning: **TypeScript, Python, and Web Frameworks**
-- 💬 Ask me about **GoatBot, Async JavaScript, and Frontend Design**
-- ⚡ Fun Fact: I love turning random ideas into bots and tools!
+### ⚡ Professional Summary
+A dedicated developer specializing in **Scalable Web Solutions** and **AI Integration**. Currently pursuing academic excellence while maintaining a robust portfolio of API services and automated systems. Focused on clean code, architectural integrity, and cybersecurity fundamentals.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Technical Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+**Programming & Logic**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexo-here&show_icons=true&theme=radical" alt="nexo-here stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexo-here&layout=compact&theme=radical" alt="nexo-here top languages" />
+**Architecture & Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0052FF?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Development-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📈 Activity & Metrics
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1F7rWYZBcr/?mibextid=qi2Omg)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801609189135)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@nxxo_here?si=3FsAsLIUcgUy3dU8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoKEX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
-
-### 🧰 Tools I Use
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeoKEX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="NeoKEX Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoKEX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-<p align="center">Thanks for visiting my profile 🐔</p>
+### 🚀 Key Projects
+* **NeoKEX APIS** – High-performance API documentation and utility hub.
+* **Web Automation** – Custom scraping and data processing solutions.
+* **Cybersecurity Research** – Focused on penetration testing and secure API gateways.
+
+---
+
+### 🌐 Connectivity
+<p align="left">
+  <a href="https://github.com/NeoKEX">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@NeoKEX">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052FF&height=100&section=footer" width="100%" />
+</p>
