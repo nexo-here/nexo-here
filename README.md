@@ -1,4 +1,3 @@
-# Neoaz ゐ (NeoKEX)
 ### Full-Stack Developer | AI & Web Solutions Engineer
 
 <p align="left">
@@ -6,11 +5,6 @@
   <img src="https://img.shields.io/badge/Education-HSC%2026%20%7C%20Holy%20Land%20College-0052FF?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Age-19-0052FF?style=flat-square" />
 </p>
-
----
-
-### ⚡ Professional Summary
-A dedicated developer specializing in **Scalable Web Solutions** and **AI Integration**. Currently pursuing academic excellence while maintaining a robust portfolio of API services and automated systems. Focused on clean code, architectural integrity, and cybersecurity fundamentals.
 
 ---
 
@@ -34,7 +28,7 @@ A dedicated developer specializing in **Scalable Web Solutions** and **AI Integr
 
 ---
 
-### 📈 Activity & Metrics
+### Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoKEX&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -44,13 +38,6 @@ A dedicated developer specializing in **Scalable Web Solutions** and **AI Integr
   <img src="https://github-readme-stats.vercel.app/api?username=NeoKEX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="NeoKEX Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoKEX&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
-
-### 🚀 Key Projects
-* **NeoKEX APIS** – High-performance API documentation and utility hub.
-* **Web Automation** – Custom scraping and data processing solutions.
-* **Cybersecurity Research** – Focused on penetration testing and secure API gateways.
 
 ---
 
